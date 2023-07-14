@@ -27,10 +27,7 @@ window.addEventListener("load", function(){
             spaceShuttleHeight.innerHTML= 0;
         }
     });
-    const shuttle = document.getElementById("shuttleBackgound");
-    shuttle.addEventListener('keydown', function(event){
-        shuttleBackground.position = parseInt()
-    })
+    
     
    
     
